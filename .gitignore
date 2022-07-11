@@ -1,0 +1,5 @@
+# ignore all .pyc files in current folder
+/*.pyc
+
+#ignore all csv files in current folder
+/*.csv
