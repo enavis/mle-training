@@ -14,5 +14,13 @@ The following techniques have been used:
  - Multiple sampling techinuqies are evaluated. The data set is split into train and test.
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
-## To excute the script
-python nonstandard.py 
+## To execute the script
+Use the terminal or an Anaconda Prompt for the following steps:
+
+1.Create the environment from the env.yml file:
+   - conda env create -f env.yml
+2.Activate the new environment
+3.Verify that the new environment was installed correctly:
+   - conda env list
+4. Run the following command:
+   - python nonstandard.py 
