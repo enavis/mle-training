@@ -78,4 +78,117 @@ snowflakes               /home/enavis/miniconda3/envs/snowflakes
 [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                         .editorconfig                                                    [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2d(B[0;1m[32m[*.py][3d[39m(B[mprofile [?12l[?25h[?25l= black[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: .editorconfig                                                                                       [28;1H(B[m[28;34H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 2 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[3;16H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ nano .flake8
 [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                            .flake8                                                       [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2d(B[0;1m[32m[flake8][3d[39m(B[mmax-line-length[?12l[?25h[?25l = 88[4dextend-ignore = E[28d[K[4;18H[?12l[?25h[?25l203[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: .flake8                                                                                             [28;1H(B[m[28;28H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 3 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[4;21H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ nano setup.cfg 
 [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;53H(B[0;7m[ Read 2 lines ](B[m[H(B[0;7m  GNU nano 4.8                                           setup.cfg                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d(B[0;1m[32m[isort][3d[39m(B[mprofile = black[A[?12l[?25h[?25l[3d[?12l[?25h[?25lp[?12l[?25h[?25lr[?12l[?25h[?25lo[?12l[?25h[?25lf[?12l[?25h[?25li[?12l[?25h[?25ll[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25l=[?12l[?25h[?25l [?12l[?25h[?25lb[?12l[?25h[?25ll[?12l[?25h[?25la[?12l[?25h[?25lc[?12l[?25h[?25lk[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[4d[?12l[?25h[?25l(B[0;1m[32m[flake8][39m(B[m[?12l[?25h[?25l[5dmax-line-length[28d[K[5;16H[?12l[?25h[?25l = 88[6dex[?12l[?25h[?25ltend-ign[?12l[?25h[?25lore = E[?12l[?25h[?25l203[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: setup.cfg                                                                                           [28;1H(B[m[28;30H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 5 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[6;21H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ nano .tox[K[K[K[Ktox,[K.ini
-[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                            tox.ini                                                       [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2d(B[0;1m[32m[flake8][39m(B[m[?12l[?25h[?25l[3dmax-line-length[?12l[?25h[?25l = 88[4dex[28d[K[4dex[?12l[?25h[?25ltend-ign[?12l[?25h[?25lore = E[?12l[?25h[?25l203[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7m
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                            tox.ini                                                       [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[2d(B[0;1m[32m[flake8][39m(B[m[?12l[?25h[?25l[3dmax-line-length[?12l[?25h[?25l = 88[4dex[28d[K[4dex[?12l[?25h[?25ltend-ign[?12l[?25h[?25lore = E[?12l[?25h[?25l203[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: tox.ini                                                                                             [28;1H(B[m[28;28H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 3 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[4;21H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git commit -m ""A"d"d"e"d" "a"l"l" "c"o"n"f"i"g"u"r"a"t"i"o"n"s" "f"i"l"e"s" "n"e"e"d"e"d" "f"o"r" "t"h"e" "p"r"o"j"e"c"t"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"o"f" "f"l"a"k"e"8" "," "i"s"o"r"t" "n"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"," "i"s"o"r"t" "[1P"," "b"a"l"c"k"[1P"[1P"[1P"[1P"l"a"c"k"
+[fix/issue#4#issue-1303457204/manual-refactor f207b44] Added all configurations files of flake8, isort, black
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename black.yml => .github/workflows/black.yml (100%)
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git status
+On branch fix/issue#4#issue-1303457204/manual-refactor
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   assignment3.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.editorconfig[m
+	[31m.flake8[m
+	[31m.isort.cfg[m
+	[31mpyproject.toml[m
+	[31msetup.cfg[m
+	[31mtox.ini[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git [K[K[K[Kgit statuscommit -m "Added all configurations files of flake8, isort, black"[1@a
+[fix/issue#4#issue-1303457204/manual-refactor 6287e9d] Added all configurations files of flake8, isort, black
+ 1 file changed, 57 insertions(+), 1 deletion(-)
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git commit -am "Added all configurations files of flake8, isort, black"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[K
+On branch fix/issue#4#issue-1303457204/manual-refactor
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.editorconfig[m
+	[31m.flake8[m
+	[31m.isort.cfg[m
+	[31mpyproject.toml[m
+	[31msetup.cfg[m
+	[31mtox.ini[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git add .
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git add .statuscommit -am "Added all configurations files of flake8, isort, black"
+[fix/issue#4#issue-1303457204/manual-refactor c96fa52] Added all configurations files of flake8, isort, black
+ 6 files changed, 17 insertions(+)
+ create mode 100644 .editorconfig
+ create mode 100644 .flake8
+ create mode 100644 .isort.cfg
+ create mode 100644 pyproject.toml
+ create mode 100644 setup.cfg
+ create mode 100644 tox.ini
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git status
+On branch fix/issue#4#issue-1303457204/manual-refactor
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   assignment3.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git pull[K[K[K[K[K[K[K[Kgit status
+On branch fix/issue#4#issue-1303457204/manual-refactor
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   assignment3.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git pull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> fix/issue#4#issue-1303457204/manual-refactor
+
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git push origin fix/issue#4#issue-1303457204/manual-refactor
+Enumerating objects: 19, done.
+Counting objects:   5% (1/19)Counting objects:  10% (2/19)Counting objects:  15% (3/19)Counting objects:  21% (4/19)Counting objects:  26% (5/19)Counting objects:  31% (6/19)Counting objects:  36% (7/19)Counting objects:  42% (8/19)Counting objects:  47% (9/19)Counting objects:  52% (10/19)Counting objects:  57% (11/19)Counting objects:  63% (12/19)Counting objects:  68% (13/19)Counting objects:  73% (14/19)Counting objects:  78% (15/19)Counting objects:  84% (16/19)Counting objects:  89% (17/19)Counting objects:  94% (18/19)Counting objects: 100% (19/19)Counting objects: 100% (19/19), done.
+Delta compression using up to 8 threads
+Compressing objects:   7% (1/13)Compressing objects:  15% (2/13)Compressing objects:  23% (3/13)Compressing objects:  30% (4/13)Compressing objects:  38% (5/13)Compressing objects:  46% (6/13)Compressing objects:  53% (7/13)Compressing objects:  61% (8/13)Compressing objects:  69% (9/13)Compressing objects:  76% (10/13)Compressing objects:  84% (11/13)Compressing objects:  92% (12/13)Compressing objects: 100% (13/13)Compressing objects: 100% (13/13), done.
+Writing objects:   5% (1/18)Writing objects:  11% (2/18)Writing objects:  16% (3/18)Writing objects:  22% (4/18)Writing objects:  27% (5/18)Writing objects:  33% (6/18)Writing objects:  38% (7/18)Writing objects:  44% (8/18)Writing objects:  50% (9/18)Writing objects:  55% (10/18)Writing objects:  61% (11/18)Writing objects:  66% (12/18)Writing objects:  72% (13/18)Writing objects:  77% (14/18)Writing objects:  83% (15/18)Writing objects:  88% (16/18)Writing objects:  94% (17/18)Writing objects: 100% (18/18)Writing objects: 100% (18/18), 4.45 KiB | 651.00 KiB/s, done.
+Total 18 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/4)[Kremote: Resolving deltas:  25% (1/4)[Kremote: Resolving deltas:  50% (2/4)[Kremote: Resolving deltas:  75% (3/4)[Kremote: Resolving deltas: 100% (4/4)[Kremote: Resolving deltas: 100% (4/4), done.[K
+remote: 
+remote: Create a pull request for 'fix/issue#4#issue-1303457204/manual-refactor' on GitHub by visiting:[K
+remote:      https://github.com/enavis/mle-training/pull/new/fix/issue%234%23issue-1303457204/manual-refactor[K
+remote: 
+To github.com:enavis/mle-training.git
+ * [new branch]      fix/issue#4#issue-1303457204/manual-refactor -> fix/issue#4#issue-1303457204/manual-refactor
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ nanao[K[Ko README.md 
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 26 lines ](B[m[H(B[0;7m  GNU nano 4.8                                           README.md                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m[36m# Median housing value prediction[4d[39m(B[mThe housing data can be downloaded from https://raw.githubusercontent.com/ageron/handson-ml/master/. The script has cod(B[0;7m>[6;1H(B[mThe following techniques have been used:[8d - Linear regression[9d - Decision Tree[10d - Random Forest[12d[36m## Steps performed[13;2H[39m(B[m- We prepare and clean the data. We check and impute for missing values.[14d - Features are generated and the variables are checked for correlation.[15d - Multiple sampling techinuqies are evaluated. The data set is split into train and test.[16d - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared e(B[0;7m>[18;1H(B[0m[36m## To execute the script[19d[39m(B[mUse the terminal or an Anaconda Prompt for the following steps:[21d1.Create the environment from the env.yml file:[22;4H- conda env create -f env.yml[23d2.Activate the new environment[24d3.Verify that the new environment was installed correctly:[25;4H- conda env list[26d4. Run the following command:[27;4H- python nonstandard.py[2d[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ ls
+README.md  assignment3.txt  env.yml  nonstandardcode.py  pyproject.toml  setup.cfg  tox.ini
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ black nonstandardcode.py [K(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ black nonstandardcode.py 
+
+Command 'black' not found, but can be installed with:
+
+sudo apt install black
+
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ bla[K[K[Kpip install black
+Collecting black
+  Using cached black-22.6.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.5 MB)
+Collecting tomli>=1.1.0
+  Using cached tomli-2.0.1-py3-none-any.whl (12 kB)
+Collecting click>=8.0.0
+  Using cached click-8.1.3-py3-none-any.whl (96 kB)
+Collecting mypy-extensions>=0.4.3
+  Using cached mypy_extensions-0.4.3-py2.py3-none-any.whl (4.5 kB)
+Collecting pathspec>=0.9.0
+  Using cached pathspec-0.9.0-py2.py3-none-any.whl (31 kB)
+Collecting platformdirs>=2
+  Using cached platformdirs-2.5.2-py3-none-any.whl (14 kB)
+Collecting typing-extensions>=3.10.0.0
+  Using cached typing_extensions-4.3.0-py3-none-any.whl (25 kB)
+Installing collected packages: mypy-extensions, typing-extensions, tomli, platformdirs, pathspec, click, black
+Successfully installed black-22.6.0 click-8.1.3 mypy-extensions-0.4.3 pathspec-0.9.0 platformdirs-2.5.2 tomli-2.0.1 typing-extensions-4.3.0
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01
