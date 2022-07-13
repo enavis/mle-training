@@ -230,4 +230,50 @@ Collecting flake8
 [?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/64.1 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;5;107m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m64.1/64.1 kB[0m [31m6.1 MB/s[0m eta [36m0:00:00[0m
 [?25hCollecting pyflakes<2.5.0,>=2.4.0
   Downloading pyflakes-2.4.0-py2.py3-none-any.whl (69 kB)
-[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/69.7 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;5;107m━━━━━━━━━━━━━━━�
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/69.7 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;5;107m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m69.7/69.7 kB[0m [31m7.5 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting pycodestyle<2.9.0,>=2.8.0
+  Downloading pycodestyle-2.8.0-py2.py3-none-any.whl (42 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/42.1 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;5;107m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m42.1/42.1 kB[0m [31m3.8 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting mccabe<0.7.0,>=0.6.0
+  Downloading mccabe-0.6.1-py2.py3-none-any.whl (8.6 kB)
+Installing collected packages: mccabe, pyflakes, pycodestyle, flake8
+Successfully installed flake8-4.0.1 mccabe-0.6.1 pycodestyle-2.8.0 pyflakes-2.4.0
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ flake8 nonstandardcode.py 
+nonstandardcode.py:4:1: F401 'matplotlib as mpl' imported but unused
+nonstandardcode.py:5:1: F401 'matplotlib.pyplot as plt' imported but unused
+nonstandardcode.py:24:1: F811 redefinition of unused 'pd' from line 7
+nonstandardcode.py:24:1: E402 module level import not at top of file
+nonstandardcode.py:34:1: E402 module level import not at top of file
+nonstandardcode.py:44:1: E402 module level import not at top of file
+nonstandardcode.py:90:1: E402 module level import not at top of file
+nonstandardcode.py:111:1: E402 module level import not at top of file
+nonstandardcode.py:116:1: E402 module level import not at top of file
+nonstandardcode.py:124:1: E402 module level import not at top of file
+nonstandardcode.py:130:1: E402 module level import not at top of file
+nonstandardcode.py:141:1: E402 module level import not at top of file
+nonstandardcode.py:142:1: E402 module level import not at top of file
+nonstandardcode.py:143:1: E402 module level import not at top of file
+nonstandardcode.py:165:1: E402 module level import not at top of file
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git stati[Kus
+On branch fix/issue#4#issue-1303457204/manual-refactor
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   assignment3.txt[m
+	[31mmodified:   nonstandardcode.py[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git aff[K[Kdd .
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git commir[Kt -m ""F"i"x"e"d" "f"e"w" "e"r"r"o"r" "[1P"s" "s"u"g"g"e"s"t"e"d" "b"y" "l"i"n"t"e"r" "f"l"a"k"r"[1P"e"8"[C
+[fix/issue#4#issue-1303457204/manual-refactor d0cc39d] Fixed few errors suggested by linter flake8
+ 2 files changed, 55 insertions(+), 17 deletions(-)
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git status
+On branch fix/issue#4#issue-1303457204/manual-refactor
+nothing to commit, working tree clean
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ g[Kblack nonstandardcode.py 
+[1mreformatted nonstandardcode.py[0m
+
+[1mAll done! ✨ 🍰 ✨[0m
+[34m[1m1 file [0m[1mreformatted[0m.
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ isort[K[K[K[K[Kblack nonstandardcode.py [15Pgit statuscommit -m "Fixed few errors suggested by linter flake8"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-trai
