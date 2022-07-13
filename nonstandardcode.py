@@ -30,14 +30,12 @@ def fetch_housing_data(housing_url=HOUSING_URL, housing_path=HOUSING_PATH):
     housing_tgz.close()
 
 
-
 def load_housing_data(housing_path=HOUSING_PATH):
     csv_path = os.path.join(housing_path, "housing.csv")
     return pd.read_csv(csv_path)
 
 
 housing = load_housing_data
-
 
 
 train_set, test_set = train_test_split(housing, test_size=0.2, random_state=42)
@@ -47,7 +45,6 @@ housing["income_cat"] = pd.cut(
     bins=[0.0, 1.5, 3.0, 4.5, 6.0, np.inf],
     labels=[1, 2, 3, 4, 5],
 )
-
 
 
 split = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
@@ -95,7 +92,6 @@ housing = strat_train_set.drop(
 housing_labels = strat_train_set["median_house_value"].copy()
 
 
-
 imputer = SimpleImputer(strategy="median")
 
 housing_num = housing.drop("ocean_proximity", axis=1)
@@ -116,7 +112,6 @@ housing_cat = housing[["ocean_proximity"]]
 housing_prepared = housing_tr.join(pd.get_dummies(housing_cat, drop_first=True))
 
 
-
 lin_reg = LinearRegression()
 lin_reg.fit(housing_prepared, housing_labels)
 
@@ -127,10 +122,8 @@ lin_rmse = np.sqrt(lin_mse)
 lin_rmse
 
 
-
 lin_mae = mean_absolute_error(housing_labels, housing_predictions)
 lin_mae
-
 
 
 tree_reg = DecisionTreeRegressor(random_state=42)
@@ -140,7 +133,6 @@ housing_predictions = tree_reg.predict(housing_prepared)
 tree_mse = mean_squared_error(housing_labels, housing_predictions)
 tree_rmse = np.sqrt(tree_mse)
 tree_rmse
-
 
 
 param_distribs = {
