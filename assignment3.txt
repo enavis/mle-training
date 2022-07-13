@@ -276,4 +276,39 @@ nothing to commit, working tree clean
 [1mAll done! ✨ 🍰 ✨[0m
 [34m[1m1 file [0m[1mreformatted[0m.
 (mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ isort[K[K[K[K[Kblack nonstandardcode.py [15Pgit statuscommit -m "Fixed few errors suggested by linter flake8"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K
-(mle-dev) ]0;enavis@TIGER03591: ~/mle-trai
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git add .black nonstandardcode.py [15Pgit statuscommit -m "Fixed few errors suggested by linter flake8"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[Kcommit -m "Fixed few errors suggested by linter flake8"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"R"e"f"o"r"m"a"t"t"e"d" "c"o"d"e" "a"f"t"e"r" "f"i"x"i"n"g" "e"r"r"o"r"s"[C
+[fix/issue#4#issue-1303457204/manual-refactor a79445b] Reformatted code after fixing errors
+ 1 file changed, 8 deletions(-)
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ isort nonstandardcode.py 
+Fixing /home/enavis/mle-training/nonstandardcode.py
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git aff[K[Kdd .
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git commit [2Padd .isort nonstandardcode.py git commit -m "Reformatted code after fixing errors" "i"s"o"r"t"s"[1P"
+[fix/issue#4#issue-1303457204/manual-refactor 5210c05] Reformatted code after fixing errors isort
+ 2 files changed, 56 insertions(+), 9 deletions(-)
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ g[Kflake8 nonstandardcode.py 
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git pusg [K[K[K[Kull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> fix/issue#4#issue-1303457204/manual-refactor
+
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ git push origin fix/issue#4#issue-1303457204/manual-refactor [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kr
+Enumerating objects: 21, done.
+Counting objects:   4% (1/21)Counting objects:   9% (2/21)Counting objects:  14% (3/21)Counting objects:  19% (4/21)Counting objects:  23% (5/21)Counting objects:  28% (6/21)Counting objects:  33% (7/21)Counting objects:  38% (8/21)Counting objects:  42% (9/21)Counting objects:  47% (10/21)Counting objects:  52% (11/21)Counting objects:  57% (12/21)Counting objects:  61% (13/21)Counting objects:  66% (14/21)Counting objects:  71% (15/21)Counting objects:  76% (16/21)Counting objects:  80% (17/21)Counting objects:  85% (18/21)Counting objects:  90% (19/21)Counting objects:  95% (20/21)Counting objects: 100% (21/21)Counting objects: 100% (21/21), done.
+Delta compression using up to 8 threads
+Compressing objects:   5% (1/18)Compressing objects:  11% (2/18)Compressing objects:  16% (3/18)Compressing objects:  22% (4/18)Compressing objects:  27% (5/18)Compressing objects:  33% (6/18)Compressing objects:  38% (7/18)Compressing objects:  44% (8/18)Compressing objects:  50% (9/18)Compressing objects:  55% (10/18)Compressing objects:  61% (11/18)Compressing objects:  66% (12/18)Compressing objects:  72% (13/18)Compressing objects:  77% (14/18)Compressing objects:  83% (15/18)Compressing objects:  88% (16/18)Compressing objects:  94% (17/18)Compressing objects: 100% (18/18)Compressing objects: 100% (18/18), done.
+Writing objects:   5% (1/18)Writing objects:  11% (2/18)Writing objects:  16% (3/18)Writing objects:  22% (4/18)Writing objects:  27% (5/18)Writing objects:  33% (6/18)Writing objects:  38% (7/18)Writing objects:  55% (10/18)Writing objects:  61% (11/18)Writing objects:  66% (12/18)Writing objects:  72% (13/18)Writing objects:  77% (14/18)Writing objects:  83% (15/18)Writing objects:  88% (16/18)Writing objects:  94% (17/18)Writing objects: 100% (18/18)Writing objects: 100% (18/18), 6.08 KiB | 1.52 MiB/s, done.
+Total 18 (delta 13), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/13)[Kremote: Resolving deltas:   7% (1/13)[Kremote: Resolving deltas:  15% (2/13)[Kremote: Resolving deltas:  23% (3/13)[Kremote: Resolving deltas:  30% (4/13)[Kremote: Resolving deltas:  38% (5/13)[Kremote: Resolving deltas:  46% (6/13)[Kremote: Resolving deltas:  53% (7/13)[Kremote: Resolving deltas:  61% (8/13)[Kremote: Resolving deltas:  69% (9/13)[Kremote: Resolving deltas:  76% (10/13)[Kremote: Resolving deltas:  84% (11/13)[Kremote: Resolving deltas:  92% (12/13)[Kremote: Resolving deltas: 100% (13/13)[Kremote: Resolving deltas: 100% (13/13), completed with 3 local objects.[K
+To github.com:enavis/mle-training.git
+   c96fa52..5210c05  fix/issue#4#issue-1303457204/manual-refactor -> fix/issue#4#issue-1303457204/manual-refactor
+(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ [K(mle-dev) ]0;enavis@TIGER03591: ~/mle-training[01;32menavis@TIGER03591[00m:[01;34m~/mle-training[00m$ exit
+exit
+
+Script done on 2022-07-13 20:23:53+05:30 [COMMAND_EXIT_CODE="0"]

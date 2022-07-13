@@ -17,10 +17,7 @@ The following techniques have been used:
 ## To execute the script
 Use the terminal or an Anaconda Prompt for the following steps:
 
-1.Create the environment from the env.yml file:
-   - conda env create -f env.yml
+1.Create the environment from the env.yml file: conda env create -f env.yml
 2.Activate the new environment
-3.Verify that the new environment was installed correctly:
-   - conda env list
-4. Run the following command:
-   - python nonstandard.py 
+3.Verify that the new environment was installed correctly: conda env list
+4. Run the following command: python nonstandard.py 
